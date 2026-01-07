@@ -1,11 +1,10 @@
 ### Hi, I'm Shannon :wave:
 ![she/her](https://img.shields.io/badge/-She%2Fher-blue)<br>
-I'm a self-taught front end developer, currently living in Nottingham, UK.<br>
+I'm a full stack engineer, with most of my experience being front end.<br>
+I currently living in Nottingham, UK.
 
 ##### :computer: You can find me on:
-[shzwlkr.dev](https://shzwlkr.dev) <br>
-[Twitter](https://twitter.com/shzwlkr) <br>
-[Codepen](https://codepen.io/shzwlkr)
+[shzwlkr.dev](https://shzwlkr.dev)
 
 <!--
 **shzwlkr/shzwlkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
